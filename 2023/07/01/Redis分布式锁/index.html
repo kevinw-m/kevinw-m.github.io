@@ -16,24 +16,24 @@
   <meta name="author" content="Kevin Wu">
   <meta name="keywords" content="Kevin Wu - 我有一只小毛驴">
   
-    <meta name="description" content="1、Debug⭐   功能 快捷键    F7 step into   F8 step over   Shift + F8 step out   F9 resume program   2、搜索及查找⭐   功能 快捷键    Ctrl+N 搜索类   Ctrl+Shift+N 搜索文件   Ctrl+F 文件内查找   Ctrl+Shift+F 全局查找   Ctrl+R 文件内替换   Ctr">
+    <meta name="description" content="方案一：推荐直接使用Redisson1234567891011121314151617@Autowiredprivate Redisson redisson;private void test() &amp;#123;        RLock lock &#x3D; redisson.getLock(&quot;redis key&quot;);        try &amp;#123;            if (">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Idea常用快捷键">
-<meta property="og:url" content="http://kevinw.cn/2023/07/01/Idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/">
+<meta property="og:title" content="Redis分布式锁">
+<meta property="og:url" content="http://kevinw.cn/2023/07/01/Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/">
 <meta property="og:site_name" content="我有一只小毛驴">
-<meta property="og:description" content="1、Debug⭐   功能 快捷键    F7 step into   F8 step over   Shift + F8 step out   F9 resume program   2、搜索及查找⭐   功能 快捷键    Ctrl+N 搜索类   Ctrl+Shift+N 搜索文件   Ctrl+F 文件内查找   Ctrl+Shift+F 全局查找   Ctrl+R 文件内替换   Ctr">
+<meta property="og:description" content="方案一：推荐直接使用Redisson1234567891011121314151617@Autowiredprivate Redisson redisson;private void test() &amp;#123;        RLock lock &#x3D; redisson.getLock(&quot;redis key&quot;);        try &amp;#123;            if (">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-07-01T03:01:11.000Z">
-<meta property="article:modified_time" content="2023-07-01T03:43:05.877Z">
+<meta property="article:published_time" content="2023-07-01T03:56:54.000Z">
+<meta property="article:modified_time" content="2023-07-02T05:14:50.272Z">
 <meta property="article:author" content="Kevin Wu">
-<meta property="article:tag" content="idea">
+<meta property="article:tag" content="redis">
 <meta name="twitter:card" content="summary_large_image">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
   
   
-  <title>Idea常用快捷键 - 我有一只小毛驴</title>
+  <title>Redis分布式锁 - 我有一只小毛驴</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -227,7 +227,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="Idea常用快捷键"></span>
+            <span id="subtitle" data-typed-text="Redis分布式锁"></span>
           
         </div>
 
@@ -243,8 +243,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2023-07-01 11:01" pubdate>
-          2023年7月1日 上午
+        <time datetime="2023-07-01 11:56" pubdate>
+          2023年7月1日 中午
         </time>
       </span>
     
@@ -255,7 +255,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          979 字
+          1.4k 字
         
       </span>
     
@@ -266,7 +266,7 @@
         
         
         
-          9 分钟
+          12 分钟
         
       </span>
     
@@ -312,12 +312,12 @@
         <div id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">Idea常用快捷键</h1>
+            <h1 style="display: none">Redis分布式锁</h1>
             
               <p class="note note-info">
                 
                   
-                    本文最后更新于：1 天前
+                    本文最后更新于：2 分钟前
                   
                 
               </p>
@@ -325,204 +325,9 @@
             
               <div class="markdown-body">
                 
-                <h2 id="1、Debug⭐"><a href="#1、Debug⭐" class="headerlink" title="1、Debug⭐"></a>1、Debug⭐</h2><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>快捷键</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>F7</td>
-<td>step into</td>
-</tr>
-<tr>
-<td>F8</td>
-<td>step over</td>
-</tr>
-<tr>
-<td>Shift + F8</td>
-<td>step out</td>
-</tr>
-<tr>
-<td>F9</td>
-<td>resume program</td>
-</tr>
-</tbody></table>
-<h2 id="2、搜索及查找⭐"><a href="#2、搜索及查找⭐" class="headerlink" title="2、搜索及查找⭐"></a>2、搜索及查找⭐</h2><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>快捷键</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Ctrl+N</td>
-<td>搜索类</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+N</td>
-<td>搜索文件</td>
-</tr>
-<tr>
-<td>Ctrl+F</td>
-<td>文件内查找</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+F</td>
-<td>全局查找</td>
-</tr>
-<tr>
-<td>Ctrl+R</td>
-<td>文件内替换</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+R</td>
-<td>全局替换</td>
-</tr>
-<tr>
-<td>按两次Shift</td>
-<td>搜索所有</td>
-</tr>
-</tbody></table>
-<h2 id="3、编辑⭐"><a href="#3、编辑⭐" class="headerlink" title="3、编辑⭐"></a>3、编辑⭐</h2><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>快捷键</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Ctrl+D</td>
-<td>复制一行⭐</td>
-</tr>
-<tr>
-<td>Ctrl+Y</td>
-<td>删除一行</td>
-</tr>
-<tr>
-<td>Ctrl+Z</td>
-<td>撤销⭐</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+Z</td>
-<td>重做⭐</td>
-</tr>
-<tr>
-<td>Ctrl+I</td>
-<td>快速方法实现⭐</td>
-</tr>
-<tr>
-<td>Ctrl+O</td>
-<td>快速方法重写⭐</td>
-</tr>
-<tr>
-<td>Alt+insert</td>
-<td>快速新建</td>
-</tr>
-<tr>
-<td>Ctrl+&#x2F;</td>
-<td>代码行注释⭐</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+&#x2F;</td>
-<td>代码块注释⭐</td>
-</tr>
-<tr>
-<td>Ctrl+W</td>
-<td>选中文本，连续按扩大范围</td>
-</tr>
-<tr>
-<td>Shift + Enter</td>
-<td>在当前行下面生成一行空行⭐</td>
-</tr>
-<tr>
-<td>Ctrl + Alt + L</td>
-<td>快速格式化代码⭐</td>
-</tr>
-<tr>
-<td>Ctrl + Alt + I</td>
-<td>自动缩进</td>
-</tr>
-<tr>
-<td>Ctrl+Alt+T</td>
-<td>代码环绕</td>
-</tr>
-<tr>
-<td>Shift+F6</td>
-<td>变量重命名</td>
-</tr>
-</tbody></table>
-<h2 id="4、查看⭐"><a href="#4、查看⭐" class="headerlink" title="4、查看⭐"></a>4、查看⭐</h2><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>快捷键</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Ctrl+B（F4）</td>
-<td>快速定位源码⭐</td>
-</tr>
-<tr>
-<td>Ctrl + Alt + B</td>
-<td>转到实现类⭐</td>
-</tr>
-<tr>
-<td>Ctrl+U</td>
-<td>定位到父类</td>
-</tr>
-<tr>
-<td>Ctrl+F12</td>
-<td>类结构⭐</td>
-</tr>
-<tr>
-<td>Ctrl+H</td>
-<td>类的继承层次</td>
-</tr>
-<tr>
-<td>Ctrl+space</td>
-<td>代码提示⭐</td>
-</tr>
-<tr>
-<td>Ctrl+Shift+enter</td>
-<td>补全分号或跳到下一行⭐</td>
-</tr>
-<tr>
-<td>Ctrl+G</td>
-<td>跳转行⭐</td>
-</tr>
-<tr>
-<td>Ctrl+P</td>
-<td>参数提示⭐</td>
-</tr>
-<tr>
-<td>Alt + left &#x2F; right</td>
-<td>快速切换代码视图⭐</td>
-</tr>
-<tr>
-<td>Ctrl + Alt + left &#x2F; right</td>
-<td>快速切换代码编辑过的地方⭐</td>
-</tr>
-<tr>
-<td>Alt+F7</td>
-<td>find usages⭐</td>
-</tr>
-</tbody></table>
-<h2 id="常用插件"><a href="#常用插件" class="headerlink" title="常用插件"></a>常用插件</h2><blockquote>
-<p>不需要的不要安装，吃性能，特别是代码分析插件</p>
-</blockquote>
-<p>The Chinese Language Pack - 官方的汉化插件</p>
-<p>Translation - 必装的翻译插件</p>
-<p>🌈Rainbow Brackets Lite - 彩虹括号</p>
-<p>MybatisX - mybatis工具</p>
-<p>Grep Console - 强化控制台日志打印</p>
-<p>Convert YAML and Properties File - YAML和Properties文件互转</p>
-<p>Color Highlighter - 直接在代码中可以看到颜色，比如#FFF 看到的是白色</p>
-<p>CodeGlance Pro - 代码小地图</p>
-<p>GsonFormatPlus - 将json等数据生成代码</p>
-<p>GenerateAllSetter - 对象生成所有的set值，需要给一个很多字段的对象给值的时候很好用</p>
-<p>GitToolBox - 强烈推荐，可以显示代码是谁提交的</p>
+                <h2 id="方案一：推荐直接使用Redisson"><a href="#方案一：推荐直接使用Redisson" class="headerlink" title="方案一：推荐直接使用Redisson"></a>方案一：推荐直接使用Redisson</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-meta">@Autowired</span><br><span class="hljs-keyword">private</span> Redisson redisson;<br><br><span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">test</span><span class="hljs-params">()</span> &#123;<br>        <span class="hljs-type">RLock</span> <span class="hljs-variable">lock</span> <span class="hljs-operator">=</span> redisson.getLock(<span class="hljs-string">&quot;redis key&quot;</span>);<br>        <span class="hljs-keyword">try</span> &#123;<br>            <span class="hljs-keyword">if</span> (lock.tryLock(<span class="hljs-number">3L</span>, TimeUnit.SECONDS)) &#123;<br>                <span class="hljs-keyword">try</span> &#123;<br>                    <span class="hljs-comment">// do something...</span><br>                &#125; <span class="hljs-keyword">finally</span> &#123;<br>                    lock.unlock();<br>                &#125;<br>            &#125;<br>        &#125; <span class="hljs-keyword">catch</span> (InterruptedException e) &#123;<br>            <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">RuntimeException</span>(e);<br>        &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>org.redisson<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>redisson<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>3.11.4<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span><br></code></pre></td></tr></table></figure>
+<h2 id="方案二："><a href="#方案二：" class="headerlink" title="方案二："></a>方案二：</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-comment">/**</span><br><span class="hljs-comment"> * Redis 分布式锁</span><br><span class="hljs-comment"> *</span><br><span class="hljs-comment"> **/</span><br><span class="hljs-meta">@Component</span><br><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">RedisLockUtils</span> &#123;<br> <br>    <span class="hljs-meta">@Autowired</span><br>    <span class="hljs-keyword">private</span> RedisTemplate redisTemplate;<br> <br>    <span class="hljs-comment">//分布式锁过期时间 s  可以根据业务自己调节</span><br>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">final</span> <span class="hljs-type">Long</span> <span class="hljs-variable">LOCK_REDIS_TIMEOUT</span> <span class="hljs-operator">=</span> <span class="hljs-number">10L</span>;<br>    <span class="hljs-comment">//分布式锁休眠 至 再次尝试获取 的等待时间 ms 可以根据业务自己调节</span><br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">final</span> <span class="hljs-type">Long</span> <span class="hljs-variable">LOCK_REDIS_WAIT</span> <span class="hljs-operator">=</span> <span class="hljs-number">500L</span>;<br> <br> <br>    <span class="hljs-comment">/**</span><br><span class="hljs-comment">     *  加锁</span><br><span class="hljs-comment">     **/</span><br>    <span class="hljs-keyword">public</span> Boolean <span class="hljs-title function_">getLock</span><span class="hljs-params">(String key,String value)</span>&#123;<br>        <span class="hljs-type">Boolean</span> <span class="hljs-variable">lockStatus</span> <span class="hljs-operator">=</span> <span class="hljs-built_in">this</span>.redisTemplate.opsForValue().setIfAbsent(key,value, Duration.ofSeconds(LOCK_REDIS_TIMEOUT));<br>        <span class="hljs-keyword">return</span> lockStatus;<br>    &#125;<br> <br>    <span class="hljs-comment">/**</span><br><span class="hljs-comment">     *  释放锁</span><br><span class="hljs-comment">     **/</span><br>    <span class="hljs-keyword">public</span> Long <span class="hljs-title function_">releaseLock</span><span class="hljs-params">(String key,String value)</span>&#123;<br>        <span class="hljs-type">String</span> <span class="hljs-variable">luaScript</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;if redis.call(&#x27;get&#x27;, KEYS[1]) == ARGV[1] then return redis.call(&#x27;del&#x27;, KEYS[1]) else return 0 end&quot;</span>;<br>        RedisScript&lt;Long&gt; redisScript = <span class="hljs-keyword">new</span> <span class="hljs-title class_">DefaultRedisScript</span>&lt;&gt;(luaScript,Long.class);<br>        <span class="hljs-type">Long</span> <span class="hljs-variable">releaseStatus</span> <span class="hljs-operator">=</span> (Long)<span class="hljs-built_in">this</span>.redisTemplate.execute(redisScript, Collections.singletonList(key),value);<br>        <span class="hljs-keyword">return</span> releaseStatus;<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
 
                 
               </div>
@@ -541,7 +346,7 @@
     
       <span class="category-chain">
         
-  <a href="/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/" class="category-chain-item">开发工具</a>
+  <a href="/categories/java/" class="category-chain-item">java</a>
   
   
 
@@ -556,7 +361,7 @@
     <div class="post-meta">
       <i class="iconfont icon-tags"></i>
       
-        <a href="/tags/idea/">#idea</a>
+        <a href="/tags/redis/">#redis</a>
       
     </div>
   
@@ -568,8 +373,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>Idea常用快捷键</div>
-      <div>http://kevinw.cn/2023/07/01/Idea常用快捷键/</div>
+      <div>Redis分布式锁</div>
+      <div>http://kevinw.cn/2023/07/01/Redis分布式锁/</div>
     </div>
     <div class="license-meta">
       
@@ -587,7 +392,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>更新于</div>
-          <div>2023年7月1日</div>
+          <div>2023年7月2日</div>
         </div>
       
       
@@ -618,18 +423,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2023/07/01/Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/" title="Redis分布式锁">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">Redis分布式锁</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2023/06/30/fastjson2%E5%BA%8F%E5%88%97%E5%8C%96%E6%8A%A5%E9%94%99OutOfMemoryError/" title="fastjson2序列化报错OutOfMemoryError">
-                        <span class="hidden-mobile">fastjson2序列化报错OutOfMemoryError</span>
+                      <a href="/2023/07/01/Idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/" title="Idea常用快捷键">
+                        <span class="hidden-mobile">Idea常用快捷键</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
