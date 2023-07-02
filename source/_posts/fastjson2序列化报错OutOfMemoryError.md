@@ -8,6 +8,7 @@ categories:
 - Java
 ---
 
+## 问题现象及分析
 报错log如下，这里用的是阿里的com.alibaba.fastjson2 **2.0.9版本**，该版限制了最大可以序列化大小是64M，超过了就报错OutOfMemoryError
 ~~~
 Exception in thread "pool-4-thread-1" java.lang.OutOfMemoryError
@@ -26,6 +27,8 @@ Exception in thread "pool-4-thread-1" java.lang.OutOfMemoryError
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at java.lang.Thread.run(Thread.java:748)
 ~~~
+
+## 解决办法
 要想解决，只能升级jar的版本，参考[https://github.com/alibaba/fastjson2/issues/841](https://github.com/alibaba/fastjson2/issues/841).
 我这里是升级到**2.0.16**(考虑到升级版本和现有代码的兼容性，没有用最新的)，在序列化时增加一个features(features可以传多个的，根据自己需要传)：JSONWriter.Feature.LargeObject
 ~~~java
