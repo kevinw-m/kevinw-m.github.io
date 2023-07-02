@@ -4,7 +4,7 @@ date: 2023-07-01 11:56:54
 tags: 
 - redis
 categories: 
-- java
+- Java
 ---
 ## 方案一：推荐直接使用Redisson
 ~~~java
