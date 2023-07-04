@@ -13,7 +13,7 @@ categories:
 > setnx (SET if Not exists), 如果不存在set, 成功返回1, 已存在则返回0, 是一个原子性(atomic)操作, 
 > Redisson 底层也是通过这两个命令结合lua脚本原子性执行完成redis分布式锁
 > 
-> ![redission分布式锁原理](\img\post\redission分布式锁原理.png)
+> ![redission分布式锁原理](https://kevinw.cn/img/post/redission分布式锁原理.png)
 
 
 ## 方案一：推荐直接使用Redisson，框架做了很多细节处理
