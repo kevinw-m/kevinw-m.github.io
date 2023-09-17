@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>idea Debug技巧</title>
+    <link href="/2023/09/17/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/idea%20Debug%E6%8A%80%E5%B7%A7/"/>
+    <url>/2023/09/17/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/idea%20Debug%E6%8A%80%E5%B7%A7/</url>
+    
+    <content type="html"><![CDATA[<ol><li>打带条件的断点<br>  点了断点后，在断点上点右键，会出现条件输入框，比如for循环时候，需要在某个条件时让断点停住。</li><li>断电回退<br>  如果错过了断点位置，可以重置帧，回到断点之前。</li><li>执行表达式 <ul><li>直接在debug界面的输入框中输入表达式，按Enter执行，或者按Ctrl+Shift+Enter增加监控</li><li>快捷键Alt+F8, 也可以选中代码后按快捷键。</li></ul></li><li>强制跳出<br>  也就是直接跳过后面的代码，跳出方法<blockquote><p><a href="https://www.bilibili.com/video/BV1Rm4y1P7j8/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=69f4bf60f655f5a0cffdb6bae42d804f">参考视频</a></p></blockquote></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>idea</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>idea</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>9月17日</title>
+    <link href="/2023/09/17/%E6%97%A5%E8%AE%B0/9%E6%9C%8817%E6%97%A5/"/>
+    <url>/2023/09/17/%E6%97%A5%E8%AE%B0/9%E6%9C%8817%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>今天去看了下，这两天想买个电动自行车，也了解了很多这方面的知识，还是犹豫要不要买，毕竟挺贵的，很多缺点，比如可能会坏，骑不了几年，<br>这几千块够我骑共享的好几年了，新国标限速25码，方便肯定是会方便些的。</p><p>越是知道归期，越是想念。最想的还是我的老婆，世界上最好的老婆。你可以说是距离会加分，但是，真的，这个女人谁都替代不了了。<br>老婆之前说，她怕哪天我会对她的身体不感兴趣，但是我觉得，我虽然很喜欢也经常很想做，只要躺在她身边，很容易就精虫上脑。但是，替代不了，不全是生理上的需要。<br>从精神上，已经全部进入了，心里塞得慢慢的，其他人就进不来了。<br>我的确有心灵洁癖，我想象中的是从一而终，而且是可以做到这点。</p><p>以前脾气不好。我改。<br>以前经常自以为是，我也可以改。<br>我希望能成为她的依靠，最信任的人。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>9月11日</title>
+    <link href="/2023/09/11/%E6%97%A5%E8%AE%B0/9%E6%9C%8811%E6%97%A5/"/>
+    <url>/2023/09/11/%E6%97%A5%E8%AE%B0/9%E6%9C%8811%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>今天真不是因为懈怠，或者说是偷懒，看SpringSecurity视频看到第八个，眼睛好痛。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>修改windows更新时间</title>
+    <link href="/2023/08/28/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/other/%E4%BF%AE%E6%94%B9windows%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4/"/>
+    <url>/2023/08/28/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/other/%E4%BF%AE%E6%94%B9windows%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4/</url>
+    
+    <content type="html"><![CDATA[<p>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings<br>新增DWORD(32位)值FlightSettingsMaxPauseDays</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>other</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月27日</title>
+    <link href="/2023/08/27/%E6%97%A5%E8%AE%B0/8%E6%9C%8827%E6%97%A5/"/>
+    <url>/2023/08/27/%E6%97%A5%E8%AE%B0/8%E6%9C%8827%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>记得以前没有手机的时代，听音乐的时候可以反反复复听，感觉听不腻一样的，<br>但是现在，没什么心思去听歌了，觉得吵，还有就是可能选择多了，压根不会想到把时间花在听歌上面，<br>心态不一样了吧，烦恼也变多了，想的多了，想要逃避的东西多了。昨天还有前天，再次花了很多时间在装系统，装软件上面，这是从大一开始，<br>慢慢养成了的恶习，时不时的觉得系统不干净了，不好用了，给自己一个理由系统重装，在装系统和软件的时候可以很专注，不用去想其他的事情吧，<br>本身这个事情很简单，而且很消耗时间。 人人都爱安逸。像鸦片一样上瘾。<br>前天想的是，周末好好看下项目代码，好好学习下里面用到的技术。<br>大前提想的是，我要好好努力了，不要做一只咸鱼。现在想来，我从2015年入职四方开始，一直在混，千年老咸鱼了。<br>很庆幸的是，结婚了，有孩子了，不然像我这样的人，老婆都找不到。很感激，家人。<br>从学校出来，梦幻泡影，可能是太顺利了，也许是自己的要求太低，所追求的东西太少，对物质的追求太少，所以没啥提高。<br>“乐高”虽然压榨员工，但是，其实他说的很对，虽然接触的不算多，感觉比我自己都了解我自己，所以说出来的话才那么的让人伤感，那么让人耿耿于怀。<br>不然其实我并不傻，不比别人差，只是没用心。</p><p>有时候会因为一件小事，或者一个小物品，一句话，突然打了鸡血。人都是这样的吧，松懈才是常态，所以要经常打鸡血。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月17日</title>
+    <link href="/2023/08/17/%E6%97%A5%E8%AE%B0/8%E6%9C%8817%E6%97%A5/"/>
+    <url>/2023/08/17/%E6%97%A5%E8%AE%B0/8%E6%9C%8817%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>今天的主题：找回自己<br>确实，早上起来我就发现，今天的自己，比昨天要好。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Redmi AX6S路由器刷机</title>
+    <link href="/2023/08/16/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/other/Redmi-AX6S%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%B7%E6%9C%BA/"/>
+    <url>/2023/08/16/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/other/Redmi-AX6S%E8%B7%AF%E7%94%B1%E5%99%A8%E5%88%B7%E6%9C%BA/</url>
+    
+    <content type="html"><![CDATA[<h3 id="【Redmi-AX6S路由器刷openwrt系统】"><a href="#【Redmi-AX6S路由器刷openwrt系统】" class="headerlink" title="【Redmi AX6S路由器刷openwrt系统】"></a>【Redmi AX6S路由器刷openwrt系统】</h3><ol><li>登录红米 AX6S 的后台（一般是：192.168.31.1，但如果是中继模式则不是这个，可以用tracert命令看下路由的地址），<br>点击右上角选择-系统升级-选择手动升级，勾选下载好的「miwifi_rb03_firmware_stable_1.2.7（内测版）.bin」固件，点击开始升级。等待系统升级完成重启，重新连接上 Wi-Fi。</li><li>在线计算 root 密码<br><a href="https://miwifi.dev/ssh">https://miwifi.dev/ssh</a> 输入SN(路由底部，后台管理页面都有)，计算出来的结果就是root的密码。比如：4128f12f</li><li>telnet连接开启ssh，输入以下命令<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">nvram set ssh_en=1 &amp; nvram set uart_en=1 &amp; nvram set boot_wait=on &amp; nvram set bootdelay=3 &amp; nvram set flag_try_sys1_failed=0 &amp; nvram set flag_try_sys2_failed=1<br>nvram set flag_boot_rootfs=0 &amp; nvram set &quot;boot_fw1=run boot_rd_img;bootm&quot;<br>nvram set flag_boot_success=1 &amp; nvram commit &amp; /etc/init.d/dropbear enable &amp; /etc/init.d/dropbear start<br></code></pre></td></tr></table></figure></li><li>使用SCP将底包上传到&#x2F;tmp&#x2F;factory.bin</li><li>使用ssh方式连接<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">cd /tmp<br>mtd -r write /tmp/factory.bin firmware<br></code></pre></td></tr></table></figure>这样就已经刷了openwrt了<br>Wi-Fi 名会变为 openwrt-5G<br>默认后台：192.168.6.1<br>用户名：root<br>密码：password</li><li>刷写其它第三方固件<br>系统&gt;刷写新的固件<br>不要勾选”保留配置”，选择第三方固件ax6s-full.bin</li><li>配置无线网络，包括中继模式<br>网络&gt;无线<br>配置完成后需要点“重启无线”的按钮，不然不生效</li></ol><h3 id="【小米路由器修复工具刷机使用步骤】"><a href="#【小米路由器修复工具刷机使用步骤】" class="headerlink" title="【小米路由器修复工具刷机使用步骤】"></a>【小米路由器修复工具刷机使用步骤】</h3><p>1、下载小米路由器修复工具PC客户端和用来刷机的ROM包；<br>2、接通小米路由器电源，用网线连接电脑和路由器LAN口；<br>3、建议关闭杀毒软件后再打开小米路由器修复工具，选择本地上传刷机ROM包；<br>4、选择网卡：请选择与路由器LAN口相连的网卡；<br>（此步骤将使用管理员权限为用户更改网卡配置，以确保路由器和电脑处于同一局域网。关闭应用时会提醒并自动恢复网卡配置。）<br>5、网卡配置成功后，先断开路由器电源，然后按住Reset键再接通电源，直到橙灯闪烁松开Reset键；<br>6、等待大约3-5分钟，蓝灯闪烁表示刷机成功，需要断电重启路由器；<br>如果红灯闪烁表示刷机失败，请检查以上的刷机过程并重新进行刷机操作。</p><h3 id="【路由器指示灯状态说明】"><a href="#【路由器指示灯状态说明】" class="headerlink" title="【路由器指示灯状态说明】"></a>【路由器指示灯状态说明】</h3><ol><li>蓝灯长亮：工作正常</li><li>蓝灯闪烁：刷机成功（需要断电重启，注意路由断电后请等待10s以上再通电）</li><li>橙灯长亮：正在启动</li><li>橙灯闪烁：进入刷机流程或系统升级中（该过程不要断电）</li><li>红灯长亮：系统故障</li><li>红灯闪烁：刷机失败</li></ol><p>rom和刷机工具都已上传阿里网盘&#x2F;oneDrive，特此备忘</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>other</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月16日</title>
+    <link href="/2023/08/16/%E6%97%A5%E8%AE%B0/8%E6%9C%8816%E6%97%A5/"/>
+    <url>/2023/08/16/%E6%97%A5%E8%AE%B0/8%E6%9C%8816%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>一个月的时间，真的好快，迷茫，打鸡血，空虚，颓废，躺平，焦虑，各种各样的自我因素和外在因素困扰着。<br>我知道了一个时间的秘密，时间到底去了哪里？<br>日子真的是日子叠着日子过来的，像空气一样，不用心去感受，压根感受不到，也不知道它的重要。<br>今天的我在想，这个事情待会再做，实际上，回头一看，昨天的我也是这么想的，前天的我也是这么想的…<br>古人确实说过“明日复明日，明日何其多”，以前也就是背诵而已，没有真切地体会。</p><p>今天把路由器刷了下机，捣鼓了一天。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月15日</title>
+    <link href="/2023/08/15/%E6%97%A5%E8%AE%B0/8%E6%9C%8815%E6%97%A5/"/>
+    <url>/2023/08/15/%E6%97%A5%E8%AE%B0/8%E6%9C%8815%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>上一次写日记是8月11（上周五），也就是意味着中间的这几天啥都没做。<br>就好像失忆了一样，脑袋里面蒙蒙的。越是啥都没干，越是不想去想，整天躺床上刷视频，对自己无能感到羞耻。<br>昨天开始想着试试做短视频，或许不是做这个的料吧，或许讲究一个时机，很能获得流量，因为脑袋是空的，没有东西被别人看，<br>仅仅是在网上做一些视频剪辑，还受到版权的限制，压根做了白做。老婆建议我先找一份兼职，哎，啥都做不了。<br>做视频剪辑还是就此打住吧，就算做，也得等找到工作再说，因为这个事情压根就是没有着落的，就像石头丢到海里，不会有回应的事情。纯消遣浪费时间。</p><p>几天没说过话了，上次说话还是在游戏里面和老婆，李耀程开语音说的。放纵了两天周末时间。不应该如此放纵的。<br>我是个自制力不强的人。从初中的时候我就发现了，那个时候就经常反省，常说吾日三省吾身来鞭策自己。<br>我也是个注意力不集中的人，换老师的话来说，就是浮着的，而不能沉下去。儿子这点可能是随我吧。</p><p>10号开始用“不做手机控”，事实证明，这玩意不管用。管用两天，没怎么玩手机，但是过了两天后，反弹更加严重。<br>结果直接在玩手机的时候给卸载了。只能靠自觉，而且，说不定每天是可以玩一下，可以放松放松，但不要放纵即可。</p><p>胡子总是在不知不觉中长出来了，就像我心里的小黑人一样，悄悄地就长大了很多，总是默许它把小白人关了禁闭。</p><p>外面的太阳，多么美好呀。</p><p>好的习惯：<br>刷手机可以，但不要沉迷，不超过30分钟，主要的目的是放松，而不是放纵。<br>多读书，多研究，多看看有意义的东西。<br>多和人交流。和家人交流和分享。<br>坚持写日记和技术博客。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月11日</title>
+    <link href="/2023/08/11/%E6%97%A5%E8%AE%B0/8%E6%9C%8811%E6%97%A5/"/>
+    <url>/2023/08/11/%E6%97%A5%E8%AE%B0/8%E6%9C%8811%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>我是无比幸运的。<br>昨天下午吃完晚饭，跑了下步，果然浑身舒服很多。<br>在刚开始跑的时候，太久没跑过步了，心脏和肺受不了，跑了一会就气喘吁吁的，就好像一台生锈的机器，突然开动了，带来了很多噪声和震动，这台生锈的机器，是时候做下保养了。<br>晚上回来和儿子聊了很久，是儿子主动打过来的，儿子说想爸爸了。我也想老婆和儿子啊。<br>得知丈母娘买了个假的驼奶，反应过激了，老婆觉得我事多，有点生气。确实，已经买了，改变不了了。说那些有什么用呢？<br>晚上洗完澡，尽可能的早点睡，但是还是在凌晨50分的时候睡的，不过算是进步了，想想前段时间。前端时间的那个应该不是我吧。<br>今早上起床跑了步，买了早餐吃，洗了澡，也是很舒服。感觉很好。今天把springboot实现原理弄清楚先。加油~</p><p>说真的，昨天弄得这个方法有点用。“不做手机控”+早晚运动。身体状态确实好了很多，心理和生理。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>8月10日</title>
+    <link href="/2023/08/10/%E6%97%A5%E8%AE%B0/8%E6%9C%8810%E6%97%A5/"/>
+    <url>/2023/08/10/%E6%97%A5%E8%AE%B0/8%E6%9C%8810%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<p>我还在想，要不要写日记写到这里面，从昨天大概中午才起床，早上起来之后就刷视频，刷到大概中午了，点了个外卖，吃了之后整理了下房间，大概花了1小时吧，<br>意外发现之前坏了caps和A这两个键的键盘，莫名其妙的又好了，就像之前莫名其妙的坏了一样。<br>后来，觉得有点儿困，可能是中午吃了饭的原因吧，人在消化的时候，会消耗掉很多能量，所以会感觉到困，然后就躺下来，边刷手机，边睡着了。<br>直到闹钟响起来，因为我定了一个每日下午3点的闹钟。<br>醒来后继续刷手机，压根就不想面试和学习了。前天下午4点面了一家，问了多线程和springboot底层的知识，回答得很不好。<br>长沙的工资是真的低很多吧，就14k的人，需要问那么底层的吗？对于这些八股文的东西，我无法应对。<br>哎，说真的，越来越没了自信，但是却又不知道出路是什么，除了干这个，其他的貌似也不会，总不能真的去送外卖或者去开网约车吧。</p><p>其实，我真的是对游戏、小视频还有性有瘾吗？有，是真的有。我想，我应该会容易戒掉吧。如果我能在现实生活中找到乐趣的话。<br>瘾的由来其实就是大脑因为多巴胺的作用，</p><ol><li>以痛止痛，痛并快乐着<br>运动，除了释放多巴胺之外，还会促进其他神经递质的释放（内啡肽，去甲腺上素等）</li><li>物理阻断</li><li>激进诚实</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Linux防火墙相关</title>
+    <link href="/2023/07/27/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99%E7%9B%B8%E5%85%B3/"/>
+    <url>/2023/07/27/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99%E7%9B%B8%E5%85%B3/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-查看是否已开启防火墙"><a href="#1-查看是否已开启防火墙" class="headerlink" title="1. 查看是否已开启防火墙"></a>1. 查看是否已开启防火墙</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">systemctl status firewalld.service<br></code></pre></td></tr></table></figure><h3 id="2-查看防火墙端口是否开放-比如查看8848端口"><a href="#2-查看防火墙端口是否开放-比如查看8848端口" class="headerlink" title="2. 查看防火墙端口是否开放, 比如查看8848端口"></a>2. 查看防火墙端口是否开放, 比如查看8848端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --query-port=8848/tcp<br></code></pre></td></tr></table></figure><h3 id="3-新增开放端口"><a href="#3-新增开放端口" class="headerlink" title="3. 新增开放端口"></a>3. 新增开放端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --add-port=8848/tcp --permanent<br>firewall-cmd --reload # 重新加载使其生效<br></code></pre></td></tr></table></figure><h3 id="4-移除端口"><a href="#4-移除端口" class="headerlink" title="4. 移除端口"></a>4. 移除端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --remove-port=8848/tcp --permanent<br>firewall-cmd --reload # 重新加载使其生效<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>linux</tag>
+      
+      <tag>nginx</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>feign优化</title>
+    <link href="/2023/07/25/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/feign%E4%BC%98%E5%8C%96/"/>
+    <url>/2023/07/25/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/feign%E4%BC%98%E5%8C%96/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-Feign开启log"><a href="#1-Feign开启log" class="headerlink" title="1. Feign开启log"></a>1. Feign开启log</h3><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">feign:</span><br>  <span class="hljs-attr">client:</span><br>    <span class="hljs-attr">config:</span><br>      <span class="hljs-attr">default:</span> <span class="hljs-comment"># default全局的配置</span><br>        <span class="hljs-attr">loggerLevel:</span> <span class="hljs-string">BASIC</span> <span class="hljs-comment"># 日志级别，日志级别尽量用basic或none,因为会影响性能</span><br><span class="hljs-attr">logging:</span> <span class="hljs-comment"># 需要特别注意的是，client所在的包路径应该要配置好log级别，不然不会打印</span><br>  <span class="hljs-attr">level:</span><br>    <span class="hljs-attr">cn.kevinw:</span> <span class="hljs-string">debug</span><br>    <span class="hljs-attr">client:</span> <span class="hljs-string">debug</span><br>  <span class="hljs-attr">pattern:</span><br>    <span class="hljs-attr">dateformat:</span> <span class="hljs-string">MM-dd</span> <span class="hljs-string">HH:mm:ss:SSS</span><br></code></pre></td></tr></table></figure><h3 id="2-Feign切换其他请求框架"><a href="#2-Feign切换其他请求框架" class="headerlink" title="2. Feign切换其他请求框架"></a>2. Feign切换其他请求框架</h3><p>Feign底层发起http请求，依赖于其它的框架。其底层客户端实现包括：</p><ul><li>URLConnection：默认实现，不支持连接池</li><li>Apache HttpClient ：支持连接池</li><li>OKHttp：支持连接池</li></ul><p>提高Feign的性能主要手段就是使用<strong>连接池</strong>代替默认的URLConnection。</p><ol><li>引入依赖<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-comment">&lt;!--httpClient的依赖 --&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>io.github.openfeign<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>feign-httpclient<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span><br></code></pre></td></tr></table></figure></li><li>application.yml中添加配置<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">feign:</span><br>  <span class="hljs-attr">httpclient:</span><br>    <span class="hljs-attr">enabled:</span> <span class="hljs-literal">true</span> <span class="hljs-comment"># 开启feign对HttpClient的支持</span><br>    <span class="hljs-attr">max-connections:</span> <span class="hljs-number">200</span> <span class="hljs-comment"># 最大的连接数</span><br>    <span class="hljs-attr">max-connections-per-route:</span> <span class="hljs-number">50</span> <span class="hljs-comment"># 每个路径的最大连接数</span><br></code></pre></td></tr></table></figure></li></ol><h3 id="3-其他自定义配置"><a href="#3-其他自定义配置" class="headerlink" title="3. 其他自定义配置"></a>3. 其他自定义配置</h3><p>Feign可以支持很多的自定义配置，如下表所示：</p><table><thead><tr><th>类型</th><th>作用</th><th>说明</th></tr></thead><tbody><tr><td>feign.Logger.Level</td><td>修改日志级别</td><td>包含四种不同的级别：NONE、BASIC、HEADERS、FULL</td></tr><tr><td>feign.codec.Decoder</td><td>响应结果的解析器</td><td>http远程调用的结果做解析，例如解析json字符串为java对象</td></tr><tr><td>feign.codec.Encoder</td><td>请求参数编码</td><td>将请求参数编码，便于通过http请求发送</td></tr><tr><td>feign.Contract</td><td>支持的注解格式</td><td>默认是SpringMVC的注解</td></tr><tr><td>feign.Retryer</td><td>失败重试机制</td><td>请求失败的重试机制，默认是没有，不过会使用Ribbon的重试</td></tr></tbody></table><p>一般情况下，默认值就能满足我们使用，如果要自定义时，只需要创建自定义的@Bean覆盖默认Bean即可。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>feign</tag>
+      
+      <tag>springCloud</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Nacos集群配置</title>
+    <link href="/2023/07/24/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Nacos%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE/"/>
+    <url>/2023/07/24/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Nacos%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>使用的版本：nacos v2.0.4，nginx v1.18(nginx版本之间差异应不大，但是nacos的版本，特别是1.x和2.x差别还是很大的)<br>我是在一台机器上模拟的三台机器，只是配置了port不同。实际配置的应是不同的机器，ip不相同</p></blockquote><h3 id="1-将conf-x2F-nacos-mysql-sql在mysql中执行，生成表数据"><a href="#1-将conf-x2F-nacos-mysql-sql在mysql中执行，生成表数据" class="headerlink" title="1. 将conf&#x2F;nacos-mysql.sql在mysql中执行，生成表数据"></a>1. 将conf&#x2F;nacos-mysql.sql在mysql中执行，生成表数据</h3><h3 id="2-复制conf-x2F-cluster-conf-example为cluster-conf"><a href="#2-复制conf-x2F-cluster-conf-example为cluster-conf" class="headerlink" title="2. 复制conf&#x2F;cluster.conf.example为cluster.conf"></a>2. 复制conf&#x2F;cluster.conf.example为cluster.conf</h3><p>添加以下三个ip</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">127.0.0.1:8845 #这里需要注意的是, nacos会占用port及&#123;port&#125;+1的端口，所以本地配置的时候，不能配置连续的端口<br>127.0.0.1:8847<br>127.0.0.1:8849<br></code></pre></td></tr></table></figure><h3 id="3-修改conf-x2F-application-properties"><a href="#3-修改conf-x2F-application-properties" class="headerlink" title="3. 修改conf&#x2F;application.properties"></a>3. 修改conf&#x2F;application.properties</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs shell">server.port=8845 # 模拟三台机器，另外两台分别是8847，8849，其他参数相同即可<br>nacos.inetutils.ip-address=127.0.0.1 # 该配置理解为让nacos认为我的本机IP就是外网IP，或者修改address.server.domain为指定域名，nginx则代理到这个域名<br>spring.datasource.platform=mysql<br>db.num=1<br>db.url.0=jdbc:mysql://127.0.0.1:3306/nacos_config?characterEncoding=utf8&amp;connectTimeout=1000&amp;socketTimeout=3000&amp;autoReconnect=true&amp;useUnicode=true&amp;useSSL=false&amp;serverTimezone=UTC<br>db.user.0=root<br>db.password.0=a123<br></code></pre></td></tr></table></figure><h3 id="4-直接运行bin-x2F-startup-cmd-无需带-m-standalone"><a href="#4-直接运行bin-x2F-startup-cmd-无需带-m-standalone" class="headerlink" title="4. 直接运行bin&#x2F;startup.cmd(无需带-m standalone)"></a>4. 直接运行bin&#x2F;startup.cmd(无需带-m standalone)</h3><h3 id="5-修改nginx的配置conf-x2F-nginx-conf"><a href="#5-修改nginx的配置conf-x2F-nginx-conf" class="headerlink" title="5. 修改nginx的配置conf&#x2F;nginx.conf"></a>5. 修改nginx的配置conf&#x2F;nginx.conf</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs shell">http &#123;<br>  upstream nacos-cluster &#123;<br>    server 127.0.0.1:8845;<br>server 127.0.0.1:8847;<br>server 127.0.0.1:8849;<br>  &#125;<br>  server &#123;<br>        listen       80;<br>        server_name  localhost;<br>        location /nacos &#123;<br>            proxy_pass http://nacos-cluster;<br>        &#125;<br>  &#125;<br>&#125;<br></code></pre></td></tr></table></figure><h3 id="6-服务注册的配置"><a href="#6-服务注册的配置" class="headerlink" title="6. 服务注册的配置"></a>6. 服务注册的配置</h3><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">spring:</span><br>  <span class="hljs-attr">cloud:</span><br>    <span class="hljs-attr">nacos:</span><br>      <span class="hljs-attr">server-addr:</span> <span class="hljs-string">localhost:80</span> <span class="hljs-comment"># nginx监听的端口</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>nginx</tag>
+      
+      <tag>nacos</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Linux下搭环境总结</title>
+    <link href="/2023/07/18/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Linux%E4%B8%8B%E6%90%AD%E7%8E%AF%E5%A2%83%E6%80%BB%E7%BB%93/"/>
+    <url>/2023/07/18/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Linux%E4%B8%8B%E6%90%AD%E7%8E%AF%E5%A2%83%E6%80%BB%E7%BB%93/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>使用的是VMware17虚拟机及centos 7.9版本</p></blockquote><h3 id="VMware中centos7的一些配置"><a href="#VMware中centos7的一些配置" class="headerlink" title="VMware中centos7的一些配置"></a>VMware中centos7的一些配置</h3><p>配置静态ip，方便使用mobax，xshell等远程连接<br>vim &#x2F;etc&#x2F;sysconfig&#x2F;network-scripts&#x2F;ifcfg-ens33<br>ip和Gateway仅供参考，设置成电脑虚拟机ip同一网段即可</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs shell">BOOTPROTO=&quot;static&quot;<br>IPADDR=&quot;192.168.91.128&quot;<br>NETMASK=&quot;255.255.255.0&quot;<br>GATEWAY=&quot;192.168.91.2&quot;<br>DNS1=&quot;8.8.8.8&quot;<br></code></pre></td></tr></table></figure><p>设置为命令行界面模式，这样只需要配置最少的内存给虚拟机就可以流畅使用了</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">systemctl set-default multi-user.target<br></code></pre></td></tr></table></figure><blockquote><p>所有软件我都装在&#x2F;usr&#x2F;local&#x2F;opt下</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs shell">[root@fastdfs opt]# pwd<br>/usr/local/opt<br>[root@fastdfs opt]# ll<br>total 4<br>drwxr-xr-x.  7 root  root   111 Jul 18 23:23 apache-maven-3.9.0<br>drwxr-xr-x.  6 root  root    92 Jul 19 03:24 fastdfs<br>drwxr-xr-x.  7 root  root   245 Jul 18 20:54 jdk<br>drwxr-xr-x. 10 mysql mysql  141 Jul 18 08:50 mysql<br>drwxr-xr-x.  7 root  root    96 Jul 18 20:57 nacos<br>drwxr-xr-x. 11 root  root   151 Jul 19 03:58 nginx<br>drwxrwxr-x.  8 root  root  4096 Jul 21 02:48 redis<br>drwxr-xr-x.  8 root  root   234 Jul 21 04:49 xxl-job<br></code></pre></td></tr></table></figure></blockquote><h3 id="安装jdk"><a href="#安装jdk" class="headerlink" title="安装jdk"></a>安装jdk</h3><p>解压到指定目录</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">tar -zxvf jdk-8u202-linux-x64.tar.gz -C /usr/local/opt<br></code></pre></td></tr></table></figure><p>设置环境变量</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /etc/profile<br><br>JAVA_HOME=/usr/local/opt/jdk1.8.0_202<br>PATH=$JAVA_HOME/bin:$PATH<br>CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar<br>export JAVA_HOME<br>export PATH<br>export CLASSPATH<br></code></pre></td></tr></table></figure><p>生效环境变量</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">source /etc/profile<br></code></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">ln -s $JAVA_HOME/bin/java /usr/local/bin/java<br>ln -s $JAVA_HOME/bin/javac /usr/local/bin/javac<br></code></pre></td></tr></table></figure><h3 id="安装Mysql"><a href="#安装Mysql" class="headerlink" title="安装Mysql"></a>安装Mysql</h3><p>下载</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">wget &quot;https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.3-rc-linux-glibc2.12-x86_64.tar.gz&quot;<br></code></pre></td></tr></table></figure><p>解压到指定目录</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">tar -zxvf mysql-8.0.3-rc-linux-glibc2.12-x86_64.tar.gz -C /usr/local/opt<br></code></pre></td></tr></table></figure><p>设置环境变量</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /etc/profile<br><br>export PATH=$PATH:/usr/local/opt/mysql/bin<br></code></pre></td></tr></table></figure><p>生效环境变量</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">source /etc/profile<br></code></pre></td></tr></table></figure><p>创建data文件夹 存储文件</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">mkdir -p /usr/local/opt/mysql/data<br></code></pre></td></tr></table></figure><p>创建用户组以及用户和密码</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">groupadd mysql<br>useradd -g mysql mysql<br></code></pre></td></tr></table></figure><p>授权用户</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">chown -R mysql.mysql /usr/local/opt/mysql/<br></code></pre></td></tr></table></figure><p>初始化基础信息 ,得到临时密码</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">cd bin<br>./mysqld --user=mysql --basedir=/usr/local/opt/mysql --datadir=/usr/local/opt/mysql/data --initialize<br><br>kuDwC&lt;gye2Z0<br></code></pre></td></tr></table></figure><p>注释掉mysqld_safe，并且修改信息</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs shell">vi /etc/my.cnf<br><br>basedir=/usr/local/opt/mysql<br>datadir=/usr/local/opt/mysql/data<br>socket=/tmp/mysql.sock<br>character-set-server=UTF8MB4<br></code></pre></td></tr></table></figure><p>添加mysqld服务到系统</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">cp -a ./support-files/mysql.server /etc/init.d/mysql<br></code></pre></td></tr></table></figure><p>授权以及添加服务</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">chmod +x /etc/init.d/mysql<br>chkconfig --add mysql<br></code></pre></td></tr></table></figure><p>启动mysql</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">service mysql start<br></code></pre></td></tr></table></figure><p>查看启动状态</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">service mysql status<br></code></pre></td></tr></table></figure><p>将mysql命令添加到服务</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">ln -s /usr/local/opt/mysql/bin/mysql /usr/bin<br></code></pre></td></tr></table></figure><p>修改root密码</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">mysql -u root -p<br>alter user &#x27;root&#x27;@&#x27;localhost&#x27; IDENTIFIED WITH mysql_native_password BY &#x27;a123&#x27;;<br>flush privileges;<br></code></pre></td></tr></table></figure><p>修改远程连接并生效</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">use mysql;<br>update user set host=&#x27;%&#x27; where user=&#x27;root&#x27;;<br>flush privileges;<br></code></pre></td></tr></table></figure><p>赋予访问数据的权限</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">grant all privileges on *.* to &#x27;root&#x27;@&#x27;%&#x27; with grant option;<br></code></pre></td></tr></table></figure><p>将3306端口加入防火墙</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --add-port=3306/tcp --permanent<br>firewall-cmd --reload<br></code></pre></td></tr></table></figure><p>设置开机自启动</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">chkconfig mysql on<br></code></pre></td></tr></table></figure><h3 id="安装Nacos"><a href="#安装Nacos" class="headerlink" title="安装Nacos"></a>安装Nacos</h3><p>创建nacos_config数据库,并且执行nacos&#x2F;conf目录下的脚本(&#x2F;usr&#x2F;local&#x2F;opt&#x2F;nacos&#x2F;conf&#x2F;nacos-mysql.sql)</p><p>修改配置文件关于数据库的配置</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim application.properties<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash"><span class="hljs-comment">## Connect URL of DB:</span></span><br>db.url.0=jdbc:mysql://127.0.0.1:3306/nacos_config?characterEncoding=utf8&amp;connectTimeout=1000&amp;socketTimeout=3000&amp;autoReconnect=true&amp;useUnicode=true&amp;useSSL=false&amp;serverTimezone=UTC<br>db.user.0=root<br>db.password.0=a123<br></code></pre></td></tr></table></figure><p>查看防火墙端口是否开放,没开放则开放</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --query-port=8848/tcp<br><br>firewall-cmd --zone=public --add-port=8848/tcp --permanent # 注册端口<br>firewall-cmd --zone=public --add-port=9848/tcp --permanent # 通讯端口<br>firewall-cmd --reload<br></code></pre></td></tr></table></figure><p>进入bin目录启动nacos</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">sudo sh startup.sh -m standalone<br></code></pre></td></tr></table></figure><p>设置nacos开机自启动</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /lib/systemd/system/nacos.service<br><br>[Unit]<br>Description=nacos<br>After=network.target<br> <br>[Service]<br>Type=forking<br>ExecStart=/usr/local/opt/nacos/bin/startup.sh -m standalone<br>ExecReload=/usr/local/opt/nacos/bin/shutdown.sh<br>ExecStop=/usr/local/opt/nacos/bin/shutdown.sh<br>PrivateTmp=true<br> <br>[Install]<br>WantedBy=multi-user.target<br></code></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">systemctl daemon-reload<br></code></pre></td></tr></table></figure><h3 id="安装redis"><a href="#安装redis" class="headerlink" title="安装redis"></a>安装redis</h3><p>安装依赖</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">yum install -y  g++ gcc-c++ cpp binutils glibc glibc-kernheaders glibc-common glibc-devel gcc make tcl<br></code></pre></td></tr></table></figure><p>下载，并编译</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs shell">wget http://download.redis.io/redis-stable.tar.gz<br>tar -xzvf redis-stable.tar.gz -C /usr/local/opt/<br>cd /usr/local/opt/<br>mv redis-stable redis<br>cd redis<br>make<br>make install #安装可执行程序到/usr/local/bin<br></code></pre></td></tr></table></figure><p>修改redis.conf基本配置</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_">#</span><span class="language-bash">默认端口6379</span><br>port 6379<br><span class="hljs-meta prompt_">#</span><span class="language-bash">绑定ip，如果是内网可以直接绑定 127.0.0.1, 或者忽略, 0.0.0.0是外网</span><br>bind 0.0.0.0 # 不设置这个，无法连接到vmware中的redis<br><span class="hljs-meta prompt_">#</span><span class="language-bash">守护进程启动</span><br>daemonize yes<br><span class="hljs-meta prompt_">#</span><span class="language-bash">超时</span><br>timeout 300<br>loglevel notice<br><span class="hljs-meta prompt_">#</span><span class="language-bash">分区</span><br>databases 16<br>save 900 1<br>save 300 10<br>save 60 10000<br>rdbcompression yes<br><span class="hljs-meta prompt_">#</span><span class="language-bash">存储文件</span><br>dbfilename dump.rdb<br><span class="hljs-meta prompt_">#</span><span class="language-bash">修改密码</span><br>requirepass a123<br></code></pre></td></tr></table></figure><p>运行</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">cd src<br>./redis-server ../redis.conf<br></code></pre></td></tr></table></figure><p>查看防火墙端口是否开放,没开放则开放</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --query-port=6379/tcp<br><br>firewall-cmd --zone=public --add-port=6379/tcp --permanent<br>firewall-cmd --reload<br></code></pre></td></tr></table></figure><p>设置redis开机自启动</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /lib/systemd/system/redis.service<br><br>[Unit]<br>Description = Redis Server<br>After=network.target<br> <br>[Service]<br>Type=forking<br>ExecStart=/usr/local/opt/redis/src/redis-server /usr/local/opt/redis/redis.conf<br>ExecReload=/usr/local/opt/redis/src/redis-cli -p 6379 shutdown<br>ExecStop=/usr/local/opt/redis/src/redis-cli -p 6379 shutdown<br>PrivateTmp=true<br><br>[Install]<br>WantedBy=multi-user.target<br></code></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">systemctl daemon-reload<br></code></pre></td></tr></table></figure><h3 id="安装maven"><a href="#安装maven" class="headerlink" title="安装maven"></a>安装maven</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">unzip  apache-maven-3.9.0-bin.zip -d /usr/local/opt/<br></code></pre></td></tr></table></figure><p>设置本地仓库路径</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">mkdir -p /usr/local/opt/apache-maven-3.9.0/repo<br>vim settings.xml<br>&lt;localRepository&gt;/usr/local/opt/apache-maven-3.9.0/repo&lt;/localRepository&gt;<br></code></pre></td></tr></table></figure><p>配置环境变量</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /etc/profile<br>export MAVEN_HOME=/usr/local/opt/apache-maven-3.9.0<br>export PATH=$JAVA_HOME/bin:$PATH:/usr/local/opt/mysql/bin:$MAVEN_HOME/bin<br>source /etc/profile<br></code></pre></td></tr></table></figure><h3 id="安装xxl-job"><a href="#安装xxl-job" class="headerlink" title="安装xxl-job"></a>安装xxl-job</h3><p>执行sql</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs text">db\tables_xxl_job.sql<br></code></pre></td></tr></table></figure><p>修改调度中心配置文件application.properties</p><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs properties"><span class="hljs-attr">server.port</span>=<span class="hljs-string">8023</span><br><span class="hljs-attr">spring.datasource.url</span>=<span class="hljs-string">jdbc:mysql://127.0.0.1:3306/xxl_job?useUnicode=true&amp;characterEncoding=UTF-8&amp;autoReconnect=true&amp;serverTimezone=Asia/Shanghai</span><br><span class="hljs-attr">spring.datasource.username</span>=<span class="hljs-string">root</span><br><span class="hljs-attr">spring.datasource.password</span>=<span class="hljs-string">a123</span><br></code></pre></td></tr></table></figure><p>修改logback.xml</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;log.path&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;/usr/local/opt/xxl-job/log/xxl-job-admin.log&quot;</span>/&gt;</span><br></code></pre></td></tr></table></figure><p>修改执行器配置文件application.properties</p><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs properties"><span class="hljs-attr">server.port</span>=<span class="hljs-string">8024</span><br><span class="hljs-attr">xxl.job.admin.addresses</span>=<span class="hljs-string">http://127.0.0.1:8023/xxl-job-admin</span><br><span class="hljs-attr">xxl.job.executor.logpath</span>=<span class="hljs-string">/usr/local/opt/xxl-job/jobhandler</span><br></code></pre></td></tr></table></figure><p>修改logback.xml</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;log.path&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;/usr/local/opt/xxl-job/log/xxl-job-executor-sample-springboot.log&quot;</span>/&gt;</span><br></code></pre></td></tr></table></figure><p>打包</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">cd /usr/local/opt/xxl-job<br>mvn package<br></code></pre></td></tr></table></figure><p>启动</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">nohup java -jar /usr/local/opt/xxl-job/xxl-job-admin/target/xxl-job-admin-2.4.1-SNAPSHOT.jar &amp;<br><span class="hljs-meta prompt_">#</span><span class="language-bash">示例执行器:</span><br>nohup java -jar /usr/local/opt/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/target/xxl-job-executor-sample-springboot-2.4.1-SNAPSHOT.jar &amp;<br></code></pre></td></tr></table></figure><p>查看守护进程</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">jps -ml | grep xxl-job<br></code></pre></td></tr></table></figure><p>开放端口</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --add-port=8023/tcp --permanent<br>firewall-cmd --reload<br></code></pre></td></tr></table></figure><p>访问web</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">http://192.168.91.128:8023/xxl-job-admin/<br></code></pre></td></tr></table></figure><p>设置自启动</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim shutdown.sh<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">!/bin/sh</span><br>export app=xxl-job<br>PROCESS=`ps -ef |grep java |grep -v grep|grep $app|awk &#x27;&#123;print $2&#125;&#x27;`<br>for i in $PROCESS<br>do<br>echo &quot;Kill the $1 process [ $i ]&quot;<br>kill -9 $i<br>done<br></code></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim startup.sh<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">!/bin/sh</span><br>/usr/local/opt/xxl-job/shutdown.sh<br>nohup java -jar /usr/local/opt/xxl-job/xxl-job-admin/target/xxl-job-admin-2.4.1-SNAPSHOT.jar &gt;/dev/null 2&gt;&amp;1 &amp;<br></code></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs shell">vim /lib/systemd/system/xxl-job.service<br><br>[Unit]<br>Description=XXL-JOB service<br>After=network-online.target<br><br>[Service]<br>Type=forking<br>ExecStart=/usr/local/opt/xxl-job/startup.sh<br>ExecStop=/usr/local/opt/xxl-job/shutdown.sh<br>PrivateTmp=true<br><br>[Install]<br>WantedBy=multi-user.target<br></code></pre></td></tr></table></figure><h3 id="安装fastDFS"><a href="#安装fastDFS" class="headerlink" title="安装fastDFS"></a>安装fastDFS</h3><blockquote><p><a href="https://github.com/happyfish100/fastdfs/wiki">https://github.com/happyfish100/fastdfs/wiki</a></p></blockquote><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">安装依赖</span><br>yum install git gcc gcc-c++ make automake autoconf libtool pcre pcre-devel zlib<br>zlib-devel openssl-devel wget vim -y<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">libfastcommon模块</span><br>git clone https://github.com/happyfish100/libfastcommon.git --depth 1 # 网络问题，我下载不了，直接在github上下载了<br>./make.sh &amp;&amp; ./make.sh install<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">应该先安装ibserverframe模块，不然会报错fatal error: sf/sf_global.h: No such file or directory</span><br>git clone https://github.com/happyfish100/libserverframe.git --depth 1<br>./make.sh<br>./make.sh install<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">fastdfs的安装</span><br>git clone https://github.com/happyfish100/fastdfs.git --depth 1<br>cd fastdfs/<br>./make.sh &amp;&amp; ./make.sh install #编译安装<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">供nginx访问使用</span><br>cp /usr/local/opt/fastdfs/fastdfs/conf/http.conf /etc/fdfs/<br>cp /usr/local/opt/fastdfs/fastdfs/conf/mime.types /etc/fdfs/<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">下载安装fastdfs-nginx-module</span><br>git clone https://github.com/happyfish100/fastdfs-nginx-module.git --depth 1<br>cp /usr/local/opt/fastdfs/fastdfs-nginx-module/src/mod_fastdfs.conf /etc/fdfs<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">修改/etc/hosts</span><br>192.168.91.128 fastdfs.com<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">tracker配置</span><br>mkdir -p /data/fastdfs<br>vim /etc/fdfs/tracker.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">需要修改的内容如下</span><br>port=22122 # tracker服务器端口（默认22122,一般不修改）<br>base_path=/data/fastdfs # 存储日志和数据的根目录<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">storage配置</span><br>vim /etc/fdfs/storage.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">需要修改的内容如下</span><br>port=23000 # storage服务端口（默认23000,一般不修改）<br>base_path=/data/fastdfs # 数据和日志文件存储根目录<br>store_path0=/data/fastdfs # 第一个存储目录<br>tracker_server=fastdfs.com:22122 # tracker服务器IP和端口<br>http.server_port=8888 # http访问文件的端口(默认8888,看情况修改,和nginx中保持一致)<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">启动服务</span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">启动tracker</span><br>/usr/bin/fdfs_trackerd /etc/fdfs/tracker.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">启动storage</span><br>/usr/bin/fdfs_storaged /etc/fdfs/storage.conf<br><span class="hljs-meta prompt_"># </span><span class="language-bash">重启storage</span><br>/usr/bin/fdfs_storaged /etc/fdfs/storage.conf restart<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">client测试</span><br>vim /etc/fdfs/client.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">需要修改的内容如下</span><br>base_path=/data/fastdfs<br>tracker_server=fastdfs.com:22122 #tracker服务器IP和端口<br><span class="hljs-meta prompt_">#</span><span class="language-bash">保存后测试,返回ID表示成功 如：group1/M00/00/00/wKgDDWDtRu6AMPhBARBlpcz7xUs146.jpg</span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">上传文件</span><br>fdfs_upload_file /etc/fdfs/client.conf /usr/local/soft/fox.jpg<br><span class="hljs-meta prompt_"># </span><span class="language-bash">删除文件</span><br>fdfs_delete_file /etc/fdfs/client.conf group1/M00/00/00/wKgDCmD1LHaADXrMAAW3EDO1WQ106.<br>jpg<br></code></pre></td></tr></table></figure><h3 id="安装Nginx"><a href="#安装Nginx" class="headerlink" title="安装Nginx"></a>安装Nginx</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><code class="hljs shell">./configure --prefix=/usr/local/opt/nginx --with-http_stub_status_module --with-http_ssl_module  --with-http_gzip_static_module --add-module=/usr/local/opt/fastdfs/fastdfs-nginx-module/src<br>make<br>make install<br><span class="hljs-meta prompt_"># </span><span class="language-bash">配置nginx访问fastdfs</span><br>vim /etc/fdfs/mod_fastdfs.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">需要修改的内容如下</span><br>tracker_server=fastdfs.com:22122 #tracker服务器IP和端口<br>url_have_group_name=true<br>store_path0=/data/fastdfs<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">配置nginx.config</span><br>vim /usr/local/opt/nginx/conf/nginx.conf<br><span class="hljs-meta prompt_">#</span><span class="language-bash">添加如下配置</span><br>server &#123;<br>listen 8888; ## 该端口为storage.conf中的http.server_port相同<br>server_name localhost;<br>location ~/group[0-9]/ &#123;<br>ngx_fastdfs_module;<br>&#125;<br>error_page 500 502 503 504 /50x.html;<br>location = /50x.html &#123;<br>root html;<br>&#125;<br>&#125;<br>/usr/local/opt/nginx/sbin/nginx #启动nginx<br>/usr/local/opt/nginx/sbin/nginx -s reload #重启nginx<br>/usr/local/opt/nginx/sbin/nginx -s stop #停止nginx<br><br>firewall-cmd --zone=public --add-port=80/tcp --permanent<br>firewall-cmd --zone=public --add-port=443/tcp --permanent<br>firewall-cmd --zone=public --add-port=8888/tcp --permanent<br><br>firewall-cmd --reload<br></code></pre></td></tr></table></figure><p>设置nginx开机自启动<br>vim &#x2F;lib&#x2F;systemd&#x2F;system&#x2F;nginx.service</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs shell">[Unit]<br>Description=Nginx service<br>After=network-online.target<br><br>[Service]<br>Type=forking<br>ExecStart=/usr/local/opt/nginx/sbin/nginx<br>ExecStop=/usr/local/opt/nginx/sbin/nginx -s stop<br>PrivateTmp=true<br><br>[Install]<br>WantedBy=multi-user.target<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>linux</tag>
+      
+      <tag>nginx</tag>
+      
+      <tag>jdk</tag>
+      
+      <tag>nacos</tag>
+      
+      <tag>mysql</tag>
+      
+      <tag>redis</tag>
+      
+      <tag>xxl-job</tag>
+      
+      <tag>fastDFS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>IDEA加载文件不全</title>
+    <link href="/2023/07/18/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/IDEA%E5%8A%A0%E8%BD%BD%E6%96%87%E4%BB%B6%E4%B8%8D%E5%85%A8/"/>
+    <url>/2023/07/18/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/IDEA%E5%8A%A0%E8%BD%BD%E6%96%87%E4%BB%B6%E4%B8%8D%E5%85%A8/</url>
+    
+    <content type="html"><![CDATA[<p>今天打开IDEA后，发现好多文件没有加载，但是实际上在文件管理器上看是存在的。感觉是突然变成这样的，不知道动了哪里。</p><p>记录下解决办法：</p><ol><li>关闭Idea</li><li>找到项目所在的目录，删除.idea文件夹</li><li>重新打开Idea，此时会重新生成.idea文件夹。此时文件的显示是正常的。</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>idea</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>idea</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Redis分布式锁</title>
+    <link href="/2023/07/01/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/"/>
+    <url>/2023/07/01/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/</url>
+    
+    <content type="html"><![CDATA[<h2 id="方案一：推荐直接使用Redisson"><a href="#方案一：推荐直接使用Redisson" class="headerlink" title="方案一：推荐直接使用Redisson"></a>方案一：推荐直接使用Redisson</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-meta">@Autowired</span><br><span class="hljs-keyword">private</span> Redisson redisson;<br><br><span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">test</span><span class="hljs-params">()</span> &#123;<br>        <span class="hljs-type">RLock</span> <span class="hljs-variable">lock</span> <span class="hljs-operator">=</span> redisson.getLock(<span class="hljs-string">&quot;redis key&quot;</span>);<br>        <span class="hljs-keyword">try</span> &#123;<br>            <span class="hljs-keyword">if</span> (lock.tryLock(<span class="hljs-number">3L</span>, TimeUnit.SECONDS)) &#123;<br>                <span class="hljs-keyword">try</span> &#123;<br>                    <span class="hljs-comment">// do something...</span><br>                &#125; <span class="hljs-keyword">finally</span> &#123;<br>                    lock.unlock();<br>                &#125;<br>            &#125;<br>        &#125; <span class="hljs-keyword">catch</span> (InterruptedException e) &#123;<br>            <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">RuntimeException</span>(e);<br>        &#125;<br>&#125;<br></code></pre></td></tr></table></figure><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>org.redisson<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>redisson<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>3.11.4<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span><br></code></pre></td></tr></table></figure><h2 id="方案二："><a href="#方案二：" class="headerlink" title="方案二："></a>方案二：</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-comment">/**</span><br><span class="hljs-comment"> * Redis 分布式锁</span><br><span class="hljs-comment"> *</span><br><span class="hljs-comment"> **/</span><br><span class="hljs-meta">@Component</span><br><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">RedisLockUtils</span> &#123;<br> <br>    <span class="hljs-meta">@Autowired</span><br>    <span class="hljs-keyword">private</span> RedisTemplate redisTemplate;<br> <br>    <span class="hljs-comment">//分布式锁过期时间 s  可以根据业务自己调节</span><br>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">final</span> <span class="hljs-type">Long</span> <span class="hljs-variable">LOCK_REDIS_TIMEOUT</span> <span class="hljs-operator">=</span> <span class="hljs-number">10L</span>;<br>    <span class="hljs-comment">//分布式锁休眠 至 再次尝试获取 的等待时间 ms 可以根据业务自己调节</span><br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">final</span> <span class="hljs-type">Long</span> <span class="hljs-variable">LOCK_REDIS_WAIT</span> <span class="hljs-operator">=</span> <span class="hljs-number">500L</span>;<br> <br> <br>    <span class="hljs-comment">/**</span><br><span class="hljs-comment">     *  加锁</span><br><span class="hljs-comment">     **/</span><br>    <span class="hljs-keyword">public</span> Boolean <span class="hljs-title function_">getLock</span><span class="hljs-params">(String key,String value)</span>&#123;<br>        <span class="hljs-type">Boolean</span> <span class="hljs-variable">lockStatus</span> <span class="hljs-operator">=</span> <span class="hljs-built_in">this</span>.redisTemplate.opsForValue().setIfAbsent(key,value, Duration.ofSeconds(LOCK_REDIS_TIMEOUT));<br>        <span class="hljs-keyword">return</span> lockStatus;<br>    &#125;<br> <br>    <span class="hljs-comment">/**</span><br><span class="hljs-comment">     *  释放锁</span><br><span class="hljs-comment">     **/</span><br>    <span class="hljs-keyword">public</span> Long <span class="hljs-title function_">releaseLock</span><span class="hljs-params">(String key,String value)</span>&#123;<br>        <span class="hljs-type">String</span> <span class="hljs-variable">luaScript</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;if redis.call(&#x27;get&#x27;, KEYS[1]) == ARGV[1] then return redis.call(&#x27;del&#x27;, KEYS[1]) else return 0 end&quot;</span>;<br>        RedisScript&lt;Long&gt; redisScript = <span class="hljs-keyword">new</span> <span class="hljs-title class_">DefaultRedisScript</span>&lt;&gt;(luaScript,Long.class);<br>        <span class="hljs-type">Long</span> <span class="hljs-variable">releaseStatus</span> <span class="hljs-operator">=</span> (Long)<span class="hljs-built_in">this</span>.redisTemplate.execute(redisScript, Collections.singletonList(key),value);<br>        <span class="hljs-keyword">return</span> releaseStatus;<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>redis</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Idea常用快捷键</title>
+    <link href="/2023/07/01/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/Idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <url>/2023/07/01/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/idea/Idea%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1、Debug⭐"><a href="#1、Debug⭐" class="headerlink" title="1、Debug⭐"></a>1、Debug⭐</h2><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>F7</td><td>step into</td></tr><tr><td>F8</td><td>step over</td></tr><tr><td>Shift + F8</td><td>step out</td></tr><tr><td>F9</td><td>resume program</td></tr></tbody></table><h2 id="2、搜索及查找⭐"><a href="#2、搜索及查找⭐" class="headerlink" title="2、搜索及查找⭐"></a>2、搜索及查找⭐</h2><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>Ctrl+N</td><td>搜索类</td></tr><tr><td>Ctrl+Shift+N</td><td>搜索文件</td></tr><tr><td>Ctrl+F</td><td>文件内查找</td></tr><tr><td>Ctrl+Shift+F</td><td>全局查找</td></tr><tr><td>Ctrl+R</td><td>文件内替换</td></tr><tr><td>Ctrl+Shift+R</td><td>全局替换</td></tr><tr><td>按两次Shift</td><td>搜索所有</td></tr></tbody></table><h2 id="3、编辑⭐"><a href="#3、编辑⭐" class="headerlink" title="3、编辑⭐"></a>3、编辑⭐</h2><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>Ctrl+D</td><td>复制一行⭐</td></tr><tr><td>Ctrl+Y</td><td>删除一行</td></tr><tr><td>Ctrl+Z</td><td>撤销⭐</td></tr><tr><td>Ctrl+Shift+Z</td><td>重做⭐</td></tr><tr><td>Ctrl+I</td><td>快速方法实现⭐</td></tr><tr><td>Ctrl+O</td><td>快速方法重写⭐</td></tr><tr><td>Alt+insert</td><td>快速新建</td></tr><tr><td>Ctrl+&#x2F;</td><td>代码行注释⭐</td></tr><tr><td>Ctrl+Shift+&#x2F;</td><td>代码块注释⭐</td></tr><tr><td>Ctrl+W</td><td>选中文本，连续按扩大范围</td></tr><tr><td>Shift + Enter</td><td>在当前行下面生成一行空行⭐</td></tr><tr><td>Ctrl + Alt + L</td><td>快速格式化代码⭐</td></tr><tr><td>Ctrl + Alt + I</td><td>自动缩进</td></tr><tr><td>Ctrl+Alt+T</td><td>代码环绕</td></tr><tr><td>Shift+F6</td><td>变量重命名</td></tr></tbody></table><h2 id="4、查看⭐"><a href="#4、查看⭐" class="headerlink" title="4、查看⭐"></a>4、查看⭐</h2><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>Ctrl+B（F4）</td><td>快速定位源码⭐</td></tr><tr><td>Ctrl + Alt + B</td><td>转到实现类⭐</td></tr><tr><td>Ctrl+U</td><td>定位到父类</td></tr><tr><td>Ctrl+F12</td><td>类结构⭐</td></tr><tr><td>Ctrl+H</td><td>类的继承层次</td></tr><tr><td>Ctrl+space</td><td>代码提示⭐</td></tr><tr><td>Ctrl+Shift+enter</td><td>补全分号或跳到下一行⭐</td></tr><tr><td>Ctrl+G</td><td>跳转行⭐</td></tr><tr><td>Ctrl+P</td><td>参数提示⭐</td></tr><tr><td>Alt + left &#x2F; right</td><td>快速切换代码视图⭐</td></tr><tr><td>Ctrl + Alt + left &#x2F; right</td><td>快速切换代码编辑过的地方⭐</td></tr><tr><td>Alt+F7</td><td>find usages⭐</td></tr></tbody></table><h2 id="常用插件"><a href="#常用插件" class="headerlink" title="常用插件"></a>常用插件</h2><blockquote><p>不需要的不要安装，吃性能，特别是代码分析插件</p></blockquote><p>The Chinese Language Pack - 官方的汉化插件</p><p>Translation - 必装的翻译插件</p><p>🌈Rainbow Brackets Lite - 彩虹括号</p><p>MybatisX - mybatis工具</p><p>Grep Console - 强化控制台日志打印</p><p>Convert YAML and Properties File - YAML和Properties文件互转</p><p>Color Highlighter - 直接在代码中可以看到颜色，比如#FFF 看到的是白色</p><p>CodeGlance Pro - 代码小地图</p><p>GsonFormatPlus - 将json等数据生成代码</p><p>GenerateAllSetter - 对象生成所有的set值，需要给一个很多字段的对象给值的时候很好用</p><p>GitToolBox - 强烈推荐，可以显示代码是谁提交的</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>idea</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>idea</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>fastjson2序列化报错OutOfMemoryError</title>
+    <link href="/2023/06/30/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/fastjson2%E5%BA%8F%E5%88%97%E5%8C%96%E6%8A%A5%E9%94%99OutOfMemoryError/"/>
+    <url>/2023/06/30/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/fastjson2%E5%BA%8F%E5%88%97%E5%8C%96%E6%8A%A5%E9%94%99OutOfMemoryError/</url>
+    
+    <content type="html"><![CDATA[<h2 id="问题现象及分析"><a href="#问题现象及分析" class="headerlink" title="问题现象及分析"></a>问题现象及分析</h2><p>报错log如下，这里用的是阿里的com.alibaba.fastjson2 <strong>2.0.9版本</strong>，该版限制了最大可以序列化大小是64M，超过了就报错OutOfMemoryError</p><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs stylus">Exception <span class="hljs-keyword">in</span> thread <span class="hljs-string">&quot;pool-4-thread-1&quot;</span> java<span class="hljs-selector-class">.lang</span><span class="hljs-selector-class">.OutOfMemoryError</span><br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.fastjson2</span><span class="hljs-selector-class">.JSONWriterUTF16</span><span class="hljs-selector-class">.writeNameRaw</span>(JSONWriterUTF16<span class="hljs-selector-class">.java</span>:<span class="hljs-number">561</span>)<br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.fastjson2</span><span class="hljs-selector-class">.writer</span><span class="hljs-selector-class">.FieldWriterImpl</span><span class="hljs-selector-class">.writeFieldName</span>(FieldWriterImpl<span class="hljs-selector-class">.java</span>:<span class="hljs-number">143</span>)<br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.fastjson2</span><span class="hljs-selector-class">.writer</span><span class="hljs-selector-class">.ObjectWriter_3</span><span class="hljs-selector-class">.write</span>(Unknown Source)<br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.fastjson2</span><span class="hljs-selector-class">.writer</span><span class="hljs-selector-class">.ObjectWriterImplList</span><span class="hljs-selector-class">.write</span>(ObjectWriterImplList<span class="hljs-selector-class">.java</span>:<span class="hljs-number">278</span>)<br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.fastjson2</span><span class="hljs-selector-class">.JSON</span><span class="hljs-selector-class">.toJSONString</span>(JSON<span class="hljs-selector-class">.java</span>:<span class="hljs-number">1757</span>)<br>at com<span class="hljs-selector-class">.liness</span><span class="hljs-selector-class">.common</span><span class="hljs-selector-class">.redis</span><span class="hljs-selector-class">.configure</span><span class="hljs-selector-class">.FastJson2JsonRedisSerializer</span><span class="hljs-selector-class">.serialize</span>(FastJson2JsonRedisSerializer<span class="hljs-selector-class">.java</span>:<span class="hljs-number">35</span>)<br>at org<span class="hljs-selector-class">.springframework</span><span class="hljs-selector-class">.data</span><span class="hljs-selector-class">.redis</span><span class="hljs-selector-class">.core</span><span class="hljs-selector-class">.AbstractOperations</span><span class="hljs-selector-class">.rawValue</span>(AbstractOperations<span class="hljs-selector-class">.java</span>:<span class="hljs-number">128</span>)<br>at org<span class="hljs-selector-class">.springframework</span><span class="hljs-selector-class">.data</span><span class="hljs-selector-class">.redis</span><span class="hljs-selector-class">.core</span><span class="hljs-selector-class">.DefaultValueOperations</span><span class="hljs-selector-class">.set</span>(DefaultValueOperations<span class="hljs-selector-class">.java</span>:<span class="hljs-number">323</span>)<br>at com<span class="hljs-selector-class">.liness</span><span class="hljs-selector-class">.common</span><span class="hljs-selector-class">.redis</span><span class="hljs-selector-class">.service</span><span class="hljs-selector-class">.RedisService</span><span class="hljs-selector-class">.setCacheObject</span>(RedisService<span class="hljs-selector-class">.java</span>:<span class="hljs-number">71</span>)<br>at com<span class="hljs-selector-class">.liness</span><span class="hljs-selector-class">.business</span><span class="hljs-selector-class">.web</span><span class="hljs-selector-class">.controller</span><span class="hljs-selector-class">.tools</span><span class="hljs-selector-class">.DownLoadFileToolsController</span>.lambda<span class="hljs-variable">$exportPayDetail</span>$<span class="hljs-number">2</span>(DownLoadFileToolsController<span class="hljs-selector-class">.java</span>:<span class="hljs-number">184</span>)<br>at com<span class="hljs-selector-class">.alibaba</span><span class="hljs-selector-class">.ttl</span><span class="hljs-selector-class">.TtlRunnable</span><span class="hljs-selector-class">.run</span>(TtlRunnable<span class="hljs-selector-class">.java</span>:<span class="hljs-number">59</span>)<br>at java<span class="hljs-selector-class">.util</span><span class="hljs-selector-class">.concurrent</span><span class="hljs-selector-class">.ThreadPoolExecutor</span><span class="hljs-selector-class">.runWorker</span>(ThreadPoolExecutor<span class="hljs-selector-class">.java</span>:<span class="hljs-number">1149</span>)<br>at java<span class="hljs-selector-class">.util</span><span class="hljs-selector-class">.concurrent</span>.ThreadPoolExecutor<span class="hljs-variable">$Worker</span><span class="hljs-selector-class">.run</span>(ThreadPoolExecutor<span class="hljs-selector-class">.java</span>:<span class="hljs-number">624</span>)<br>at java<span class="hljs-selector-class">.lang</span><span class="hljs-selector-class">.Thread</span><span class="hljs-selector-class">.run</span>(Thread<span class="hljs-selector-class">.java</span>:<span class="hljs-number">748</span>)<br></code></pre></td></tr></table></figure><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>要想解决，只能升级jar的版本，参考<a href="https://github.com/alibaba/fastjson2/issues/841">https://github.com/alibaba/fastjson2/issues/841</a>.<br>我这里是升级到<strong>2.0.16</strong>(考虑到升级版本和现有代码的兼容性，没有用最新的)，在序列化时增加一个features(features可以传多个的，根据自己需要传)：JSONWriter.Feature.LargeObject</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs java">JSON.toJSONString(t, JSONWriter.Feature.WriteClassName, JSONWriter.Feature.LargeObject).getBytes(DEFAULT_CHARSET);<br></code></pre></td></tr></table></figure><p>这样最大序列化对象即可以支持1G了。见以下源码：</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">protected</span> <span class="hljs-title function_">JSONWriter</span><span class="hljs-params">(Context context, Charset charset)</span> &#123;<br>        <span class="hljs-built_in">this</span>.context = context;<br>        <span class="hljs-built_in">this</span>.charset = charset;<br>        <span class="hljs-built_in">this</span>.utf8 = charset == StandardCharsets.UTF_8;<br>        <span class="hljs-built_in">this</span>.utf16 = charset == StandardCharsets.UTF_16;<br><br>        quote = (context.features &amp; Feature.UseSingleQuotes.mask) == <span class="hljs-number">0</span> ? <span class="hljs-string">&#x27;&quot;&#x27;</span> : <span class="hljs-string">&#x27;\&#x27;&#x27;</span>;<br><br>        <span class="hljs-comment">// 64M or 1G</span><br>        maxArraySize = (context.features &amp; LargeObject.mask) != <span class="hljs-number">0</span> ? <span class="hljs-number">1073741824</span> : <span class="hljs-number">67108864</span>;<br>    &#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>java</tag>
+      
+      <tag>fastjson2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
