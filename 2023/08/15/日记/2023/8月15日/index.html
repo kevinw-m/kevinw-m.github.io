@@ -16,25 +16,24 @@
   <meta name="author" content="Kevin Wu">
   <meta name="keywords" content="Kevin Wu - 我有一只小毛驴">
   
-    <meta name="description" content="1. 查看是否已开启防火墙1systemctl status firewalld.service 2. 查看防火墙端口是否开放, 比如查看8848端口1firewall-cmd --query-port&#x3D;8848&#x2F;tcp 3. 新增开放端口12firewall-cmd --zone&#x3D;public --add-port&#x3D;8848&#x2F;tcp --permanentfirewall-cmd --reloa">
+    <meta name="description" content="上一次写日记是8月11（上周五），也就是意味着中间的这几天啥都没做。就好像失忆了一样，脑袋里面蒙蒙的。越是啥都没干，越是不想去想，整天躺床上刷视频，对自己无能感到羞耻。昨天开始想着试试做短视频，或许不是做这个的料吧，或许讲究一个时机，很能获得流量，因为脑袋是空的，没有东西被别人看，仅仅是在网上做一些视频剪辑，还受到版权的限制，压根做了白做。老婆建议我先找一份兼职，哎，啥都做不了。做视频剪辑还是就此">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Linux防火墙相关">
-<meta property="og:url" content="http://kevinw.cn/2023/07/27/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/linux/Linux%E9%98%B2%E7%81%AB%E5%A2%99%E7%9B%B8%E5%85%B3/">
+<meta property="og:title" content="8月15日">
+<meta property="og:url" content="http://kevinw.cn/2023/08/15/%E6%97%A5%E8%AE%B0/2023/8%E6%9C%8815%E6%97%A5/">
 <meta property="og:site_name" content="我有一只小毛驴">
-<meta property="og:description" content="1. 查看是否已开启防火墙1systemctl status firewalld.service 2. 查看防火墙端口是否开放, 比如查看8848端口1firewall-cmd --query-port&#x3D;8848&#x2F;tcp 3. 新增开放端口12firewall-cmd --zone&#x3D;public --add-port&#x3D;8848&#x2F;tcp --permanentfirewall-cmd --reloa">
+<meta property="og:description" content="上一次写日记是8月11（上周五），也就是意味着中间的这几天啥都没做。就好像失忆了一样，脑袋里面蒙蒙的。越是啥都没干，越是不想去想，整天躺床上刷视频，对自己无能感到羞耻。昨天开始想着试试做短视频，或许不是做这个的料吧，或许讲究一个时机，很能获得流量，因为脑袋是空的，没有东西被别人看，仅仅是在网上做一些视频剪辑，还受到版权的限制，压根做了白做。老婆建议我先找一份兼职，哎，啥都做不了。做视频剪辑还是就此">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-07-27T09:23:49.000Z">
-<meta property="article:modified_time" content="2023-10-28T14:49:18.914Z">
+<meta property="article:published_time" content="2023-08-15T08:21:39.000Z">
+<meta property="article:modified_time" content="2023-10-28T14:49:18.916Z">
 <meta property="article:author" content="Kevin Wu">
-<meta property="article:tag" content="linux">
-<meta property="article:tag" content="nginx">
+<meta property="article:tag" content="日记">
 <meta name="twitter:card" content="summary_large_image">
   
   
     <meta name="referrer" content="no-referrer-when-downgrade">
   
   
-  <title>Linux防火墙相关 - 我有一只小毛驴</title>
+  <title>8月15日 - 我有一只小毛驴</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -228,7 +227,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="Linux防火墙相关"></span>
+            <span id="subtitle" data-typed-text="8月15日"></span>
           
         </div>
 
@@ -244,8 +243,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2023-07-27 17:23" pubdate>
-          2023年7月27日 下午
+        <time datetime="2023-08-15 16:21" pubdate>
+          2023年8月15日 下午
         </time>
       </span>
     
@@ -256,7 +255,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          292 字
+          655 字
         
       </span>
     
@@ -267,7 +266,7 @@
         
         
         
-          3 分钟
+          6 分钟
         
       </span>
     
@@ -313,7 +312,7 @@
         <div id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">Linux防火墙相关</h1>
+            <h1 style="display: none">8月15日</h1>
             
               <p class="note note-info">
                 
@@ -326,10 +325,12 @@
             
               <div class="markdown-body">
                 
-                <h3 id="1-查看是否已开启防火墙"><a href="#1-查看是否已开启防火墙" class="headerlink" title="1. 查看是否已开启防火墙"></a>1. 查看是否已开启防火墙</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">systemctl status firewalld.service<br></code></pre></td></tr></table></figure>
-<h3 id="2-查看防火墙端口是否开放-比如查看8848端口"><a href="#2-查看防火墙端口是否开放-比如查看8848端口" class="headerlink" title="2. 查看防火墙端口是否开放, 比如查看8848端口"></a>2. 查看防火墙端口是否开放, 比如查看8848端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --query-port=8848/tcp<br></code></pre></td></tr></table></figure>
-<h3 id="3-新增开放端口"><a href="#3-新增开放端口" class="headerlink" title="3. 新增开放端口"></a>3. 新增开放端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --add-port=8848/tcp --permanent<br>firewall-cmd --reload # 重新加载使其生效<br></code></pre></td></tr></table></figure>
-<h3 id="4-移除端口"><a href="#4-移除端口" class="headerlink" title="4. 移除端口"></a>4. 移除端口</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">firewall-cmd --zone=public --remove-port=8848/tcp --permanent<br>firewall-cmd --reload # 重新加载使其生效<br></code></pre></td></tr></table></figure>
+                <p>上一次写日记是8月11（上周五），也就是意味着中间的这几天啥都没做。<br>就好像失忆了一样，脑袋里面蒙蒙的。越是啥都没干，越是不想去想，整天躺床上刷视频，对自己无能感到羞耻。<br>昨天开始想着试试做短视频，或许不是做这个的料吧，或许讲究一个时机，很能获得流量，因为脑袋是空的，没有东西被别人看，<br>仅仅是在网上做一些视频剪辑，还受到版权的限制，压根做了白做。老婆建议我先找一份兼职，哎，啥都做不了。<br>做视频剪辑还是就此打住吧，就算做，也得等找到工作再说，因为这个事情压根就是没有着落的，就像石头丢到海里，不会有回应的事情。纯消遣浪费时间。</p>
+<p>几天没说过话了，上次说话还是在游戏里面和老婆，李耀程开语音说的。放纵了两天周末时间。不应该如此放纵的。<br>我是个自制力不强的人。从初中的时候我就发现了，那个时候就经常反省，常说吾日三省吾身来鞭策自己。<br>我也是个注意力不集中的人，换老师的话来说，就是浮着的，而不能沉下去。儿子这点可能是随我吧。</p>
+<p>10号开始用“不做手机控”，事实证明，这玩意不管用。管用两天，没怎么玩手机，但是过了两天后，反弹更加严重。<br>结果直接在玩手机的时候给卸载了。只能靠自觉，而且，说不定每天是可以玩一下，可以放松放松，但不要放纵即可。</p>
+<p>胡子总是在不知不觉中长出来了，就像我心里的小黑人一样，悄悄地就长大了很多，总是默许它把小白人关了禁闭。</p>
+<p>外面的太阳，多么美好呀。</p>
+<p>好的习惯：<br>刷手机可以，但不要沉迷，不超过30分钟，主要的目的是放松，而不是放纵。<br>多读书，多研究，多看看有意义的东西。<br>多和人交流。和家人交流和分享。<br>坚持写日记和技术博客。</p>
 
                 
               </div>
@@ -338,34 +339,11 @@
             <div>
               <div class="post-metas my-3">
   
-    <div class="post-meta mr-3 d-flex align-items-center">
-      <i class="iconfont icon-category"></i>
-      
-
-<span class="category-chains">
-  
-  
-    
-      <span class="category-chain">
-        
-  <a href="/categories/linux/" class="category-chain-item">linux</a>
-  
-  
-
-      </span>
-    
-  
-</span>
-
-    </div>
-  
   
     <div class="post-meta">
       <i class="iconfont icon-tags"></i>
       
-        <a href="/tags/linux/">#linux</a>
-      
-        <a href="/tags/nginx/">#nginx</a>
+        <a href="/tags/%E6%97%A5%E8%AE%B0/">#日记</a>
       
     </div>
   
@@ -377,8 +355,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>Linux防火墙相关</div>
-      <div>http://kevinw.cn/2023/07/27/技术博客/linux/Linux防火墙相关/</div>
+      <div>8月15日</div>
+      <div>http://kevinw.cn/2023/08/15/日记/2023/8月15日/</div>
     </div>
     <div class="license-meta">
       
@@ -390,7 +368,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>发布于</div>
-          <div>2023年7月27日</div>
+          <div>2023年8月15日</div>
         </div>
       
       
@@ -427,9 +405,9 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2023/08/10/%E6%97%A5%E8%AE%B0/2023/8%E6%9C%8810%E6%97%A5/" title="8月10日">
+                      <a href="/2023/08/16/%E6%97%A5%E8%AE%B0/2023/8%E6%9C%8816%E6%97%A5/" title="8月16日">
                         <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">8月10日</span>
+                        <span class="hidden-mobile">8月16日</span>
                         <span class="visible-mobile">上一篇</span>
                       </a>
                     
@@ -437,8 +415,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2023/07/25/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/java/feign%E4%BC%98%E5%8C%96/" title="feign优化">
-                        <span class="hidden-mobile">feign优化</span>
+                      <a href="/2023/08/11/%E6%97%A5%E8%AE%B0/2023/8%E6%9C%8811%E6%97%A5/" title="8月11日">
+                        <span class="hidden-mobile">8月11日</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
